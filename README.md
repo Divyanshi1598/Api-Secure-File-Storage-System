@@ -27,8 +27,14 @@
 
 
 #### Install Dependencies
-
+````
+git clone https://github.com/Divyanshi1598/Api-Secure-File-Storage-System.git
+````
+````
 cd server
 npm install
+````
 
+````
 npm run dev
+````
